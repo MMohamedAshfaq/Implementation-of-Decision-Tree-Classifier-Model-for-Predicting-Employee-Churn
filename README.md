@@ -95,47 +95,7 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 <img width="1115" alt="image" src="https://github.com/gauthamkrishna7/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/141175025/0e11798e-c2ab-44ee-875b-982d940a1851">
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 ## Result:
 Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
