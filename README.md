@@ -22,8 +22,8 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by: FRANKLIN.F
-RegisterNumber:  212224240041
+Developed by: M.MOHAMED ASHFAQ
+RegisterNumber:  212224240090
 */
 ```
 ```py
@@ -64,37 +64,34 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ## Output:
 
 ### DATA HEAD:
-<img width="1115" alt="image" src="https://github.com/gauthamkrishna7/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/141175025/bc753f9a-8a09-4815-89ae-79ec8e165e8a">
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<img width="1604" height="296" alt="8ml1" src="https://github.com/user-attachments/assets/8ce692f3-5e97-490a-a6e8-248c2f89be7f" />
 
 ### DATASET INFO:
-<img width="1115" alt="image" src="https://github.com/gauthamkrishna7/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/141175025/f760819f-e78e-4a12-8b8c-32daeacb3410">
+<img width="1000" height="422" alt="8ml2" src="https://github.com/user-attachments/assets/383b2db4-7c5c-4788-a0cd-3c424ef72f37" />
+
 
 ### NULL DATASET:
-<img width="1115" alt="image" src="https://github.com/gauthamkrishna7/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/141175025/67c8a973-c928-44e6-be58-ffd98b45057b">
+<img width="976" height="280" alt="8ml3" src="https://github.com/user-attachments/assets/0ea65049-e13f-43e7-8ba6-253410bb358f" />
+
 
 ### VALUES COUNT IN LEFT COLUMN:
-<img width="1115" alt="image" src="https://github.com/gauthamkrishna7/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/141175025/01f07495-4958-4186-bee8-c6632195895e">
+<img width="1458" height="122" alt="8ml4" src="https://github.com/user-attachments/assets/44943bf8-d501-454b-8a7f-7dadb0058aad" />
+
 
 ### DATASET TRANSFORMED HEAD:
-<img width="1115" alt="image" src="https://github.com/gauthamkrishna7/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/141175025/1138eafe-ce6f-4fde-85e9-71daf0b64c00">
+<img width="1604" height="252" alt="8ml5" src="https://github.com/user-attachments/assets/556dad8f-9ef0-4994-a62c-4cafd7ef4795" />
+
 
 ### X.HEAD:
-<img width="1115" alt="image" src="https://github.com/gauthamkrishna7/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/141175025/569580d7-a8b0-4d20-a637-73bf2f4bc9fe">
+<img width="1518" height="244" alt="8ml6" src="https://github.com/user-attachments/assets/0e99cf23-7329-4454-ba4e-d8b7dad9b316" />
+
 
 ### ACCURACY:
-<img width="1115" alt="image" src="https://github.com/gauthamkrishna7/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/141175025/2dfb7e6d-2f2c-4b47-a09f-f766553e9dc5">
+<img width="600" height="58" alt="8ml7" src="https://github.com/user-attachments/assets/44d1b8a6-046a-489d-bafa-661825128c9d" />
+
 
 ### DATA PREDICTION:
-<img width="1115" alt="image" src="https://github.com/gauthamkrishna7/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/141175025/0e11798e-c2ab-44ee-875b-982d940a1851">
-
-<br>
+<img width="1622" height="128" alt="8ml8" src="https://github.com/user-attachments/assets/387317ed-8bda-4ddd-bc5a-ff76e31b1706" />
 
 
 ## Result:
